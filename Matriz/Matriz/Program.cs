@@ -31,7 +31,7 @@ namespace Matriz
                 }
             }
 
-            Console.WriteLine("DIGITE O NUMERO PERTENCENTE A MATRIZ");
+            Console.WriteLine("DIGITE UM NUMERO DA MATRIZ");
             int x = int.Parse(Console.ReadLine());
             for (int i = 0; i < r; i++)
             {
